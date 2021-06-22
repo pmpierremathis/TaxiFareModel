@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pmpierremathis/code/pmpierremathis/TaxiFareModel/mlruns/1/60b0bbcf56dd42b195bb52d680d962cf/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 60b0bbcf56dd42b195bb52d680d962cf
+run_uuid: 60b0bbcf56dd42b195bb52d680d962cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1624368580474
+status: 1
+tags: []
+user_id: unknown
